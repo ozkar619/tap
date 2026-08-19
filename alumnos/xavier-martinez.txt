@@ -1,0 +1,7 @@
+Nombre: Ximena Lopez
+Numero de control: 25030131
+Carrera: Ingeniería en Sistemas
+Semestre: 4
+Lenguaje favorito: Java
+Tecnología que quiero aprender: web
+Proyecto que me gustaría desarrollar: 
