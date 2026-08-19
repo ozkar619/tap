@@ -1,0 +1,7 @@
+Nombre: Ximena Lopez
+Numero de control: 22030221
+Carrera: Ingeniería en Sistemas
+Semestre: 8
+Lenguaje favorito: Java
+Tecnología que quiero aprender: Docker
+Proyecto que me gustaría desarrollar: Sistema de inventarios
