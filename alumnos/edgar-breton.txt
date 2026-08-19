@@ -1,0 +1,7 @@
+Nombre: Breton Morales Edgar Tristán
+Numero de control: 24030004
+Carrera: Ingeniería en Sistemas
+Semestre: 6
+Lenguaje favorito: Java
+Tecnología que quiero aprender: Docker
+Proyecto que me gustaría desarrollar: Sistema de inventarios
