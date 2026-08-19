@@ -5,3 +5,5 @@ Semestre: 5
 Lenguaje favorito: Java
 Tecnología que quiero aprender: Sistemas Programables
 Proyecto que me gustaría desarrollar: Sistema de aprendizaje de Sistemas programables para principiantes
+Mi objetivo en esta materia: Adquirir nuevos conocimientos sobre programación para desempeñar
+Quiero aprender: Implementación de interfaces gráficas
