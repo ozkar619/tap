@@ -1,0 +1,7 @@
+Nombre: Martínez Sandoval Mariana Estefania
+Numero de control: 24030073
+Carrera: Ingeniería en Sistemas Computacionales
+Semestre: 6
+Lenguaje favorito: Java
+Tecnología que quiero aprender: Docker
+Proyecto que me gustaría desarrollar: Sistema de inventarios
