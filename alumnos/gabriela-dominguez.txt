@@ -1,0 +1,11 @@
+Nombre: Gabriela Derrramadero Dominguez
+Numero de control: 24030974
+Carrera: Ingenieria en Sistemas
+Semestre: 5
+Lenguaje favorito: Java
+Tegnologia que quiero aprender: Docker
+Proyecto que me gustaria desarrollar: Sistema de inventarios
+Mi objetivo en esta materia: 
+Dominar y desarrollar herramientas de programacion
+Quiero aprender:
+Arquitectura de software y optimizacion de codigo
