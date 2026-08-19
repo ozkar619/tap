@@ -5,3 +5,5 @@ Semestre: 6
 Lenguaje favorito: Java
 Tecnología que quiero aprender: Docker
 Proyecto que me gustaría desarrollar: Sistema de inventarios
+Quiero aprender:
+Arquitectura de software y DevOps.
