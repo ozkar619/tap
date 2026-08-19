@@ -1,0 +1,7 @@
+Nombre: Luis Alberto Sena Martínez
+Numero de Control: 24030387
+Carrera: Ingeniería en Sistemas Computacionales
+Semestre: 8
+Lenguaje favorito: Java (no se otro)
+Tecnología que quiero aprender: No se mucho de esto
+Proyecto que me gustaria desarrollar: calculadora de gastos
