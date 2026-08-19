@@ -3,5 +3,8 @@ Numero de control: 22030221
 Carrera: Ingeniería en Sistemas
 Semestre: 8
 Lenguaje favorito: Java
-Tecnología que quiero aprender: Docker
-Proyecto que me gustaría desarrollar: Sistema de inventarios
+Tecnología que quiero aprender: aws
+Proyecto que me gustaría desarrollar: 
+Mi objetivo en esta materia: Desarrollar aplicaciones profesionales
+Quiero aprender: Arquitectura de software
+
