@@ -1,0 +1,7 @@
+Nombre: Juan Carlos Rodriguez Patiño
+Numero de control: 22031355
+Carrera: Ingeniería en Sistemas
+Semestre: 8
+Lenguaje favorito: Java
+Tecnología que quiero aprender: Todas las tecnologias posibles de la materia.
+Proyecto que me gustaría desarrollar: Sistema de puertos ferroviarios.
