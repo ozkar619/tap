@@ -5,3 +5,6 @@ Semestre: 7
 Lenguaje favorito: Java
 Tecnología que quiero aprender: Docker
 Proyecto que me gustaría desarrollar: Sistema de inventarios
+
+Mi objetivo en esta materia: aprender y comprender todos los temas
+Quiero aprender: desarrollar aplicaciones
