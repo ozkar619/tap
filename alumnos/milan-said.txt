@@ -1,0 +1,7 @@
+Nombre: Milan Said
+Numero de control: 25030026
+Carrera: Ingeniería en Sistemas
+Semestre: 4
+Lenguaje favorito: Python
+Tecnología que quiero aprender: Docker
+Proyecto que me gustaría desarrollar: EDR

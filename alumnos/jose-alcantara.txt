@@ -1,0 +1,13 @@
+Nombre: Jose Juan Alcantara Herrera
+Numero de control: 24032113
+Carrera: Ingenieria en Sistemas
+Semestre: 6
+Lenguaje favorito: Java
+Tecnologia que quiero aprender: Docker
+Proyecto que me gustaria desarrollar: Sistema de inventarios
+
+Mi objetivo en esta materia:
+Desarrollar aplicaciones profesionales
+
+Quiero aprender:
+Arquitectura se software y DevOps
