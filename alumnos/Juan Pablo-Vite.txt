@@ -5,3 +5,9 @@ Semestre: 5
 Lenguaje favorito: (Java)
 Tecnología que quiero aprender: (Inteligencia Artificial)
 Proyecto que me gustaría desarrollar: (Sistema de Inventarios)
+
+Mi objetivo en esta materia:
+Desarrollar aplicaciones profesionales.
+
+Quiero aprender:
+Arquitectura de software y DevOps.
