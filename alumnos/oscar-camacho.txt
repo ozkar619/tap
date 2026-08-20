@@ -1,0 +1,9 @@
+Nombre: Oscar Rodrigo Camacho Caudillo
+Numero de control: 25030066
+Carrera: Ingeniería en Sistemas
+Semestre: 4
+Lenguaje favorito: Java
+Tecnología que quiero aprender: Docker
+Proyecto que me gustaría desarrollar: Sistema de inventarios
+Mi objetivo en esta materia: Reforzar mis conocimientos previos y seguir aprendiendo
+Quiero aprender: Todo acerca de esta materia y realizar proyectos

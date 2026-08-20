@@ -1,0 +1,10 @@
+Nombre: Raul Anaya
+Numero de control: C21031210
+Carrera: Ingeniería en Sistemas
+Semestre: 7
+Lenguaje favorito: Java
+Tecnología que quiero aprender: Cisco Packet Tracer
+Proyecto que me gustaría desarrollar: Sistema de inventarios para una tienda de abarrotes
+
+Mi objetivo en esta materia: Mejorar en mis capacidades de programacion con tecnicas mas refinadas y cercanas a lo necesario en el campo laboral.
+Quiero aprender: A trabajar correctamente en equipo como si fuera un desarrollo de sofware en una empresa real con sus correctos procedimientos.

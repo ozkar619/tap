@@ -1,5 +1,5 @@
-Nombre: Breton Morales Edgar Tristán
-Numero de control: 24030004
+Nombre: Oscar Uriel Ramirez Mendoza
+Número de control: 24030120
 Carrera: Ingeniería en Sistemas
 Semestre: 6
 Lenguaje favorito: Java
@@ -8,4 +8,4 @@ Proyecto que me gustaría desarrollar: Sistema de inventarios
 Mi objetivo en esta materia:
 Desarrollar aplicaciones profesionales.
 Quiero aprender:
-Arquitectura de software y DevOps.
+Arquitectura de sofware y DevOps.
