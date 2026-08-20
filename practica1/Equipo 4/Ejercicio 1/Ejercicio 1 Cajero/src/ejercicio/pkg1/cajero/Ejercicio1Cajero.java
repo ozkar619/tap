@@ -58,6 +58,11 @@ public class Ejercicio1Cajero
                    {
                        System.out.println("No es posible hacer el retiro, ingrese una cantidad menor o igual al saldo");
                    }
+                   
+                   else if(retiro <= 0)
+                   {
+                        System.out.println("No es posible hacer el retiro, ingrese una cantidad menor o igual al saldo");
+                   }
                    else
                    {
                        obj1.setSaldo(obj1.getSaldo()-retiro);
