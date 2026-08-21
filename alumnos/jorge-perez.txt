@@ -1,0 +1,7 @@
+Nombre: Jorge Pérez
+Numero de control: 24030600
+Carrera: Ingeniería en Sistemas
+Semestre: 5
+Lenguaje favorito: Java
+Tecnología que quiero aprender: Docker
+Proyecto que me gustaría desarrollar: Sistema de inventarios
