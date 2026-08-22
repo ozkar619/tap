@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/Practica1/Practica1.iml" filepath="$PROJECT_DIR$/Practica1/Practica1.iml" />
+>>>>>>> 043c88c810e7446aca2c3b93d4d6560f8272b0dc
       <module fileurl="file://$PROJECT_DIR$/.idea/tap.iml" filepath="$PROJECT_DIR$/.idea/tap.iml" />
     </modules>
   </component>
