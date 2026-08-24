@@ -42,5 +42,6 @@ public class Ejercicio2Random{
             System.out.println("Juego terminado!");            
         }
         System.out.println("El numero era: "+ noRandom);
+        scanner.close();
     }
 }
