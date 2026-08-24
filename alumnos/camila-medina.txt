@@ -1,7 +1,0 @@
-Nombre: Camila Medina
-Carrera: Sistemas Computacionales
-Número de control: 24030480
-Semestre: 5
-Lenguaje fav: kotlin
-Tecnología que quiero aprender: python
-Proyecto que me gustaría desarrollar: sistema de seguridad dinámica
