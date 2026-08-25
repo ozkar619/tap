@@ -1,0 +1,10 @@
+
+
+Número de Control: 24031158
+Nombre: Diego Padilla
+Semestre: 5
+
+Calificación de la materia 1: 85
+Calificación de la materia 2: 70
+Calificación de la materia 3:90
+Promedio:81
