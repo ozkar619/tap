@@ -1,9 +1,0 @@
-Nombre: Jorge Pérez
-Numero de control: 24030600
-Carrera: Ingeniería en Sistemas
-Semestre: 5
-Lenguaje favorito: Java
-Mi objetivo en esta materia:
-Desarrollar aplicaciones profesionales.
-Quiero aprender:
-Arquitectura de software y DevOps

@@ -1,7 +1,0 @@
-Nombre: Paulo Isaac Garcia Florencio
-Número de control: 24030408
-Carrera: Ingeniería en Sistemas Computacionales
-Semestre: 5
-Lenguaje favorito: Java
-Tecnología que quiero aprender: TensorFlow
-Proyecto que me gustaría desarrollar: Modelo de IA
