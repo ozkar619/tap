@@ -1,0 +1,62 @@
+import java.util.Scanner;
+
+public class ReporteAlumno{
+    public static void main(String[] args){
+        Scanner teclado = new Scanner(System.in);
+
+        System.out.println("Ingresar nombre de alumno");
+        String nombre = teclado.nextln();
+
+        System.out.println("Ingresar correo de alumno");
+        String correo = teclado.nextln();
+
+        System.out.println("Ingresar cantidad de calificaciones");
+        int cantidad = teclado.nextln();
+        double[] calificaciones = new double[cantidad];
+
+        for(int i = 0; i < cantidad; i++) {
+            System.out.println("Ingresar calificación " + (i + 1) );
+            calificaciones[i] = teclado.nextDouble();
+        }
+
+
+    }
+}
+
+class calcularP{
+    public double resultadoPromedio; 
+
+    public void calcular(double[] notas) {
+        double suma = 0;
+        for (int i = 0; i < notas.length; i++) {
+            suma += notas[i];
+        }
+
+        resultadoPromedio = suma / notas.length; 
+    }
+
+}
+
+class generarR{
+    public String textoReporte; 
+
+    public void crear(String nombre, double promedio) {
+        String estado = (promedio >= 70) ? "Aprobado" : "Reprobado";
+        
+        textoReporte = "\n=== REPORTE ===\nAlumno: " + nombre + "\nPromedio: " + promedio + "\nEstado: " + estado + "\n===============\n";
+    }
+}
+
+class guardarArch{
+    public void guardar(String contenido) {
+        System.out.println("Documento guardado");
+    }
+
+}
+
+class enviarCorreo{
+    public void enviar(String destinatario, String contenido) {
+        System.out.println("Correo enviado a: " + destinatario );
+    }
+    
+}
