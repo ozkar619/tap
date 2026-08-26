@@ -5,7 +5,25 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner tec = new Scanner(System.in);
-             
+        System.out.print("Ingresa la primera calificacion: ");
+        float cal1 = tec.nextFloat();
+        
+        System.out.print("Ingresa la segunda calificacion: ");
+        float cal2 = tec.nextFloat();
+        
+        CalProm calculadora = new CalProm();
+        Reporte reporte = new Reporte();
+        EnviarCorreo correo = new EnviarCorreo();
+        
+        System.out.println("\n--- Procesando ---");
+        
+        float promedio = calculadora.calProm(cal1, cal2);
+        
+        reporte.genRep(promedio);
+        reporte.guardarArch();
+        correo.enviarCorreo();
+        
+        tec.close();
     }
 }
 
@@ -32,6 +50,6 @@ class Reporte{
     }
     
     void guardarArch(){
-        System.out.println("Archivo guardado correctamente en la base de datos");
+        System.out.println("Archivo guardado correctamente");
     }
 }
