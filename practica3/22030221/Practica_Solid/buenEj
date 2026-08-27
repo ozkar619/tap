@@ -1,0 +1,73 @@
+import java.util.Scanner;
+
+interface Forma {
+    double calcularArea();
+}
+
+
+class Rectangulo implements Forma {
+    private double ancho;
+    private double alto;
+
+    public Rectangulo(double ancho, double alto) {
+        this.ancho = ancho;
+        this.alto = alto;
+    }
+
+    @Override
+    public double calcularArea() {
+        return ancho * alto;
+    }
+}
+
+class Circulo implements Forma {
+    private double radio;
+
+    public Circulo(double radio) {
+        this.radio = radio;
+    }
+
+    @Override
+    public double calcularArea() {
+        return Math.PI * radio * radio;
+    }
+}
+
+
+class Triangulo implements Forma {
+    private double base;
+    private double altura;
+
+    public Triangulo(double base, double altura) {
+        this.base = base;
+        this.altura = altura;
+    }
+
+    @Override
+    public double calcularArea() {
+        return (base * altura) / 2;
+    }
+}
+
+
+class CalculadoraDeAreas {
+    public double calcularArea(Forma forma) {
+        return forma.calcularArea();
+    }
+}
+
+
+public class BuenEjemplo {
+    public static void main(String[] args) {
+        Forma Rectangulo = new Rectangulo(10, 5);
+        Forma Circulo = new Circulo(3);
+        Forma Triangulo = new Triangulo(10, 4);
+
+        CalculadoraDeAreas calculadora = new CalculadoraDeAreas();
+
+       
+        System.out.println("Área del rectángulo: " + calculadora.calcularArea(Rectangulo));
+        System.out.println("Área del círculo: " + calculadora.calcularArea(Circulo));
+        System.out.println("Área del triángulo: " + calculadora.calcularArea(Triangulo));
+    }
+}
