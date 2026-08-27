@@ -1,0 +1,45 @@
+import java.util.Scanner;
+class Rectangulo {
+    public double ancho;
+    public double alto;
+
+    public Rectangulo(double ancho, double alto) {
+        this.ancho = ancho;
+        this.alto = alto;
+    }
+}
+
+class Circulo {
+    public double radio;
+
+    public Circulo(double radio) {
+        this.radio = radio;
+    }
+}
+
+
+class CalculadoraDeAreas {
+    public double calcularArea(Object forma) {
+        if (forma instanceof Rectangulo) {
+            Rectangulo r = (Rectangulo) forma;
+            return r.ancho * r.alto;
+        } else if (forma instanceof Circulo) {
+            Circulo c = (Circulo) forma;
+            return Math.PI * c.radio * c.radio;
+        }
+        return 0; 
+    }
+}
+
+public class MalEjemplo {
+    public static void main(String[] args) {
+        Rectangulo rectangulo = new Rectangulo(10, 5);
+        Circulo circulo = new Circulo(3);
+        
+        CalculadoraDeAreas calculadora = new CalculadoraDeAreas();
+
+        System.out.println("Área del rectángulo: " + calculadora.calcularArea(rectangulo));
+        System.out.println("Área del círculo: " + calculadora.calcularArea(circulo));
+    }
+}
+
